@@ -9,4 +9,7 @@ public class HelloGit {
 		System.out.println("nihao");
 	}
 	
+	public void test1(){
+	}
+	
 }
